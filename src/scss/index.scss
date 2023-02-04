@@ -1,0 +1,17 @@
+//
+// Static Imports
+//
+// this could be a problem on github - just comment it!
+// well i'm using this css-framework because it's well documented, small and open-source
+@import './pzscss/w3.css';
+
+// Local Variables
+
+// Dynamic Imports
+// this could be a problem on github - just comment it!
+@import './pzscss/_Base.scss';
+
+// make your own changes her
+h1 {
+  font-size: 48px; // you know what you're doing - just for the gist
+}

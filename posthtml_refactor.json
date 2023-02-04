@@ -16,12 +16,8 @@
           "keywords": "Statice Template Keywords",
           "authors": [
             {
-              "name": "John Doe"
-            },
-            {
-              "mail": "john.doe@example.com"
-            },
-            {
+              "name": "John Doe",
+              "mail": "john.doe@example.com",
               "socials": {
                 "facebook": "https://www.facebook.com/johndoe",
                 "instagram": "https://www.instagram.com/johndoe",

@@ -60,4 +60,3 @@ npm run <script-name>
 ## Quirks
 Ich nutze diese Scripts so in Production und hatte bisher keine Probleme. Es gibt jedoch einiges zu beachten.
 * Meine Basis-SASS-Datei importiert meine eigenen SASS-Module über einen Symlink. Lokal funktioniert das super - auf Github dürfte das nicht funktionieren.
-* Ich würde auch gerne meine JS/TS-Module über Symlinks importieren, aber da sperrt sich *Webpack* - also notfalls müsst ihr eure Module doppelt und dreifach in die richtigen Verzeichnisse kopieren 
